@@ -75,7 +75,7 @@
 }
 
 /* 576 */
-@media (max-width: 576px) {
+@media (max-width: 570px) {
     .header__container {
         flex-direction: row-reverse;
         align-items: center;
@@ -156,6 +156,13 @@
         height: 400px;
     }
 
+}
+
+/* 520 */
+@media (max-width:520px) {
+    .skills__content {
+        margin-right: 150px;
+    }
 }
 
 /* 376 */
