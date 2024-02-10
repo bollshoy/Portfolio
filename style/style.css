@@ -127,6 +127,7 @@ body {
     display: none;
 }
 
+
 /* main */
 
 .home__content {
@@ -147,6 +148,10 @@ body {
     font-size: 18px;
     line-height: 20px;
     margin-bottom: 20px;
+}
+
+.home__icons img{
+    width: 50px;
 }
 
 .icons__img{
