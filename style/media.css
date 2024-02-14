@@ -37,8 +37,8 @@
     }
 }
 
-/* 768 */
-@media (max-width:768px) {
+/* 780 */
+@media (max-width:780px) {
     .home__content {
         flex-direction: column;
     }
